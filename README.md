@@ -1,2 +1,0 @@
-# activitylist
-# activitylist
