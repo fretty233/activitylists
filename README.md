@@ -1,3 +1,0 @@
-# listactivity
-# activitylists
-# listactivity
